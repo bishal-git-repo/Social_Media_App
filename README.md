@@ -43,10 +43,10 @@ This README will document the steps necessary to get the application up and runn
        ```json
        {
          "user": {
-           "name": "username",
            "email": "example@email.com",
            "password": "123456",
            "role": "user"
+           "name": "username",
          }
        }
        ```
